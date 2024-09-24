@@ -2,6 +2,8 @@
 
 This project automates the [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) game using Selenium in Python. The script automatically clicks the big cookie and purchases products when enough cookies are collected.
 
+<img width="1642" alt="image" src="https://github.com/user-attachments/assets/bc4e7f19-0119-4c63-8bc4-06290058bbf9">
+
 ## Features
 
 - Automatically clicks the cookie continuously.
