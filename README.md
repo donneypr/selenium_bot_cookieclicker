@@ -44,3 +44,6 @@ This project automates the [Cookie Clicker](https://orteil.dashnet.org/cookiecli
 - **Click Cookie Function**: Continuously clicks the big cookie and prints the current number of cookies in the console.
 - **Buy Products Function**: Periodically checks if there are enough cookies to buy a product and buys the most affordable product.
 - **Threading**: Clicks the cookie and buys products simultaneously using two separate threads.
+
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/b2501ce5-bc04-4b0c-b28d-88a87e40e140">
+
